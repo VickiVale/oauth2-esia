@@ -1,5 +1,5 @@
 {
-  "name": "apekoff/oauth2-esia",
+  "name": "vickivale/oauth2-esia",
   "type": "library",
   "description": "Allows to authenticate in ESIA and get authenticated individual personal information.",
   "keywords": [
@@ -11,8 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Alexander Ustimenko",
-      "email": "ustimenko.alexander@gmail.com"
+      "name": "Vicki Vale",
+      "email": "ivanov.ist32@yandex.ru"
     }
   ],
   "require": {
